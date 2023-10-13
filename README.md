@@ -4,7 +4,7 @@ This is a simple command-line based Tic Tac Toe game where players take turns pl
 
 ## How to Play
 
-1. Compile and run the `try.cpp` file.
+1. Compile and run the `main.cpp` file.
 2. First, choose whether you want to play as X or O.
 3. When prompted, input the number of the cell where you want to place your mark (1-9).
 
