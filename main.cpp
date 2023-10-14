@@ -157,6 +157,10 @@ bool isWin(char player, char entries[])
          // RESTART THE GAME
          main();
       }
+      else
+      {
+         exit(0);
+      }
       return false;
    }
    return false;
